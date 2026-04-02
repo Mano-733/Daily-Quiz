@@ -1,0 +1,17 @@
+{
+  "name": "Daily MCQ Practice",
+  "short_name": "MCQ Practice",
+  "description": "Daily MCQ practice app with subjects, chapters and sets",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f6ff",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%234f46e5'/><text x='96' y='130' font-size='100' text-anchor='middle'>📚</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
